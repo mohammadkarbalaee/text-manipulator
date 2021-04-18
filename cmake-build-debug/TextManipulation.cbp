@@ -82,7 +82,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/mksht80/CLionProjects/TextManipulation/cmake-build-debug/text.h">
+		<Unit filename="/home/mksht80/CLionProjects">
 			<Option target="TextManipulation"/>
 		</Unit>
 		<Unit filename="/home/mksht80/CLionProjects/TextManipulation/main.cpp">

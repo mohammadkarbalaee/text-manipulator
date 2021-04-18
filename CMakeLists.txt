@@ -3,4 +3,4 @@ project(TextManipulation)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(TextManipulation main.cpp cmake-build-debug/text.h)
+add_executable(TextManipulation ${PROJECT_SOURCE_DIR}/ main.cpp)
