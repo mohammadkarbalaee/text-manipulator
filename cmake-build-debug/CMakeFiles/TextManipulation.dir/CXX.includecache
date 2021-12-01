@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mksht80/CLionProjects/TextManipulation/main.cpp
+iostream
+-
+stdio.h
+/home/mksht80/CLionProjects/TextManipulation/stdio.h
+cstring
+/home/mksht80/CLionProjects/TextManipulation/cstring
+

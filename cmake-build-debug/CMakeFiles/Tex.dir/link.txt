@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Tex.dir/main.cpp.o -o Tex 
